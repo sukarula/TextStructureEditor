@@ -1,0 +1,2 @@
+# TextStructureEditor
+テキストノードを持つデータ構造のエディタ
